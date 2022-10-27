@@ -1,0 +1,31 @@
+Document of booking plugins
+
+1) please upload zip folder of booking-hair-saloon on plugin then acive plugins
+then show Online Saloon Booking option on left side of admin panel of wordpress
+I have show option for booking plugins
+1)Online Saloon Booking :
+	In which I have show all booking user from frond end
+2)Manage Staff member :
+		In which I have show all staff member of this site
+3)Add Staff member:
+ In which You can add  more staff member
+4)Custom Redirection :
+ In which I have show custom  Redirection url .you can add after login and registration user.
+5)Shortcode:
+In which I have show shortcode of login and registrtion and booking calender
+6)Manage Services:
+	in which I have show service of this site
+	
+7)Add New Service:
+		In which You can add service for this site
+8) Manage Branch:
+  In whcih I have show branch of this site
+9) Add New Branch:
+	In which You can add  more Branch
+10)Setting:
+  In which You can set hair dresser show or not
+  
+
+		
+
+
